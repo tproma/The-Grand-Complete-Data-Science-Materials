@@ -1,0 +1,363 @@
+[2023-10-27 19:51:04,765:  INFO: main: ........stage Data Ingestion stage started.......]
+[2023-10-27 19:51:04,771:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-10-27 19:51:04,772:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-10-27 19:51:04,772:  INFO: common: created directory at : artifacts]
+[2023-10-27 19:51:04,773:  INFO: common: created directory at : artifacts/data_ingestion]
+[2023-10-27 19:51:08,625:  INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 1936538
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "0e68aba45962a5084dbbf6e3f95d94aa88116ae0c41f3aaeedf0a4e813d874b3"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 5002:37A87A:3503CE:4253AD:653BBDE6
+Accept-Ranges: bytes
+Date: Fri, 27 Oct 2023 13:51:06 GMT
+Via: 1.1 varnish
+X-Served-By: cache-qpg1280-QPG
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1698414666.918072,VS0,VE360
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 585d1cef2cd9b62e5cf04638b183ddfc4e7c6aa6
+Expires: Fri, 27 Oct 2023 13:56:06 GMT
+Source-Age: 0
+
+]
+[2023-10-27 19:51:08,729:  INFO: main: ........stage Data Ingestion stage completed.......]
+[2023-10-27 19:51:08,729:  INFO: main: ........stage Data Validation stage started.......]
+[2023-10-27 19:51:08,734:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-10-27 19:51:08,736:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-10-27 19:51:08,737:  INFO: common: created directory at : artifacts]
+[2023-10-27 19:51:08,738:  INFO: common: created directory at : artifacts/data_validation]
+[2023-10-27 19:51:08,741:  INFO: main: ........stage Data Validation stage completed.......]
+[2023-10-27 19:51:08,742:  INFO: main: ........stage Data Transformation stage started.......]
+[2023-10-27 19:51:08,745:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-10-27 19:51:08,747:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-10-27 19:51:08,751:  INFO: common: created directory at : artifacts]
+[2023-10-27 19:51:08,754:  INFO: common: created directory at : artifacts/data_transformation]
+[2023-10-27 19:51:13,782:  INFO: main: ........stage Data Transformation stage completed.......]
+[2023-10-28 20:52:50,656:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-10-28 20:52:50,663:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-10-28 20:52:50,666:  INFO: common: created directory at : artifacts]
+[2023-10-28 20:52:50,668:  INFO: common: created directory at : artifacts/data_transformation]
+[2023-10-28 20:54:16,764:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-10-28 20:54:16,769:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-10-28 20:54:16,773:  INFO: common: created directory at : artifacts]
+[2023-10-28 20:54:16,775:  INFO: common: created directory at : artifacts/data_transformation]
+[2023-10-28 21:11:52,675:  INFO: main: ........stage Data Ingestion stage started.......]
+[2023-10-28 21:11:52,682:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-10-28 21:11:52,684:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-10-28 21:11:52,685:  INFO: common: created directory at : artifacts]
+[2023-10-28 21:11:52,686:  INFO: common: created directory at : artifacts/data_ingestion]
+[2023-10-28 21:12:26,878:  INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 1936538
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "0e68aba45962a5084dbbf6e3f95d94aa88116ae0c41f3aaeedf0a4e813d874b3"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: B1C6:EBD12:16D3FD:1CE933:653D24BA
+Accept-Ranges: bytes
+Date: Sat, 28 Oct 2023 15:11:55 GMT
+Via: 1.1 varnish
+X-Served-By: cache-qpg1267-QPG
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1698505915.508250,VS0,VE1077
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: d151ac3000eac370dac4b28f1eb226606575ce73
+Expires: Sat, 28 Oct 2023 15:16:55 GMT
+Source-Age: 1
+
+]
+[2023-10-28 21:12:26,931:  INFO: main: ........stage Data Ingestion stage completed.......]
+[2023-10-28 21:12:26,932:  INFO: main: ........stage Data Validation stage started.......]
+[2023-10-28 21:12:26,938:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-10-28 21:12:26,943:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-10-28 21:12:26,944:  INFO: common: created directory at : artifacts]
+[2023-10-28 21:12:26,945:  INFO: common: created directory at : artifacts/data_validation]
+[2023-10-28 21:12:26,948:  INFO: main: ........stage Data Validation stage completed.......]
+[2023-10-28 21:12:26,948:  INFO: main: ........stage Data Transformation stage started.......]
+[2023-10-28 21:12:26,952:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-10-28 21:12:26,957:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-10-28 21:12:26,958:  INFO: common: created directory at : artifacts]
+[2023-10-28 21:12:26,959:  INFO: common: created directory at : artifacts/data_transformation]
+[2023-10-28 21:12:32,179:  INFO: main: ........stage Data Transformation stage completed.......]
+[2023-10-28 22:45:01,132:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-10-28 22:45:01,137:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-10-28 22:45:01,139:  INFO: common: created directory at : artifacts]
+[2023-10-28 22:45:01,141:  INFO: common: created directory at : artifacts/model_trainer]
+[2023-10-28 23:17:22,593:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-10-28 23:17:22,600:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-10-28 23:17:22,601:  INFO: common: created directory at : artifacts]
+[2023-10-28 23:17:22,604:  INFO: common: created directory at : artifacts/model_trainer]
+[2023-10-28 23:24:12,090:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-10-28 23:24:12,097:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-10-28 23:24:12,101:  INFO: common: created directory at : artifacts]
+[2023-10-28 23:24:12,104:  INFO: common: created directory at : artifacts/model_trainer]
+[2023-10-28 23:29:45,622:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-10-28 23:29:45,725:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-10-28 23:29:45,731:  INFO: common: created directory at : artifacts]
+[2023-10-28 23:29:45,735:  INFO: common: created directory at : artifacts/model_trainer]
+[2023-10-28 23:35:51,839:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-10-28 23:35:51,885:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-10-28 23:35:51,898:  INFO: common: created directory at : artifacts]
+[2023-10-28 23:35:51,936:  INFO: common: created directory at : artifacts/model_trainer]
+[2023-11-19 20:59:16,481:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-19 20:59:16,832:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-19 20:59:16,834:  INFO: common: created directory at : artifacts]
+[2023-11-19 20:59:16,836:  INFO: common: created directory at : artifacts/data_transformation]
+[2023-11-19 21:02:25,215:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-19 21:02:25,220:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-19 21:02:25,222:  INFO: common: created directory at : artifacts]
+[2023-11-19 21:02:25,279:  INFO: common: created directory at : artifacts/data_transformation]
+[2023-11-19 21:03:24,365:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-19 21:03:24,370:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-19 21:03:24,374:  INFO: common: created directory at : artifacts]
+[2023-11-19 21:03:24,377:  INFO: common: created directory at : artifacts/data_transformation]
+[2023-11-21 00:16:59,184:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-21 00:16:59,194:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-21 00:16:59,197:  INFO: common: created directory at : artifacts]
+[2023-11-21 00:16:59,213:  INFO: common: created directory at : artifacts/data_transformation]
+[2023-11-21 00:17:52,664:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-21 00:17:52,669:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-21 00:17:52,674:  INFO: common: created directory at : artifacts]
+[2023-11-21 00:17:52,677:  INFO: common: created directory at : artifacts/data_transformation]
+[2023-11-21 00:18:45,964:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-21 00:18:45,968:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-21 00:18:45,971:  INFO: common: created directory at : artifacts]
+[2023-11-21 00:18:45,974:  INFO: common: created directory at : artifacts/data_transformation]
+[2023-11-21 00:19:15,207:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-21 00:19:15,214:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-21 00:19:15,219:  INFO: common: created directory at : artifacts]
+[2023-11-21 00:19:15,224:  INFO: common: created directory at : artifacts/data_transformation]
+[2023-11-21 00:21:59,403:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-21 00:21:59,408:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-21 00:21:59,412:  INFO: common: created directory at : artifacts]
+[2023-11-21 00:21:59,415:  INFO: common: created directory at : artifacts/data_transformation]
+[2023-11-21 00:22:49,677:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-21 00:22:49,684:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-21 00:22:49,687:  INFO: common: created directory at : artifacts]
+[2023-11-21 00:22:49,690:  INFO: common: created directory at : artifacts/data_transformation]
+[2023-11-21 00:25:20,240:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-21 00:25:20,245:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-21 00:25:20,247:  INFO: common: created directory at : artifacts]
+[2023-11-21 00:25:20,250:  INFO: common: created directory at : artifacts/data_transformation]
+[2023-11-21 00:37:45,134:  INFO: main: ........stage Data Ingestion stage started.......]
+[2023-11-21 00:37:45,141:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-21 00:37:45,144:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-21 00:37:45,145:  INFO: common: created directory at : artifacts]
+[2023-11-21 00:37:45,146:  INFO: common: created directory at : artifacts/data_ingestion]
+[2023-11-21 00:37:56,882:  INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 1936538
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "0e68aba45962a5084dbbf6e3f95d94aa88116ae0c41f3aaeedf0a4e813d874b3"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: E398:14D8FC:239DB:2D7D7:655BA779
+Accept-Ranges: bytes
+Date: Mon, 20 Nov 2023 18:37:46 GMT
+Via: 1.1 varnish
+X-Served-By: cache-qpg1268-QPG
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1700505466.021175,VS0,VE391
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 34e4f3b0e1ebeb7c2347ad707afc9580da684c4c
+Expires: Mon, 20 Nov 2023 18:42:46 GMT
+Source-Age: 0
+
+]
+[2023-11-21 00:37:56,975:  INFO: main: ........stage Data Ingestion stage completed.......]
+[2023-11-21 00:37:56,975:  INFO: main: ........stage Data Validation stage started.......]
+[2023-11-21 00:37:56,981:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-21 00:37:56,984:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-21 00:37:56,985:  INFO: common: created directory at : artifacts]
+[2023-11-21 00:37:57,007:  INFO: common: created directory at : artifacts/data_validation]
+[2023-11-21 00:37:57,011:  INFO: main: ........stage Data Validation stage completed.......]
+[2023-11-21 00:37:57,012:  INFO: main: ........stage Data Transformation stage started.......]
+[2023-11-21 00:37:57,019:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-21 00:37:57,022:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-21 00:37:57,024:  INFO: common: created directory at : artifacts]
+[2023-11-21 00:37:57,026:  INFO: common: created directory at : artifacts/data_transformation]
+[2023-11-21 00:38:01,390:  INFO: main: ........stage Data Transformation stage completed.......]
+[2023-11-21 12:24:07,130:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-21 12:24:09,412:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-21 12:24:09,414:  INFO: common: created directory at : artifacts]
+[2023-11-21 12:24:09,416:  INFO: common: created directory at : artifacts/model_trainer]
+[2023-11-21 20:31:09,284:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-21 20:31:09,324:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-21 20:31:09,326:  INFO: common: created directory at : artifacts]
+[2023-11-21 20:31:09,330:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-21 20:31:36,044:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-21 20:31:36,052:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-21 20:31:36,055:  INFO: common: created directory at : artifacts]
+[2023-11-21 20:31:36,059:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-21 20:34:36,678:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-21 20:34:36,687:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-21 20:34:36,691:  INFO: common: created directory at : artifacts]
+[2023-11-21 20:34:36,694:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-21 20:35:41,537:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-21 20:35:41,546:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-21 20:35:41,552:  INFO: common: created directory at : artifacts]
+[2023-11-21 20:35:41,554:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-21 20:43:31,959:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-21 20:43:31,966:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-21 20:43:31,971:  INFO: common: created directory at : artifacts]
+[2023-11-21 20:43:31,973:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-21 20:44:21,651:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-21 20:44:21,658:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-21 20:44:21,662:  INFO: common: created directory at : artifacts]
+[2023-11-21 20:44:21,665:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-21 20:51:27,708:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-21 20:51:27,713:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-21 20:51:27,716:  INFO: common: created directory at : artifacts]
+[2023-11-21 20:51:27,718:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-22 20:35:41,355:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-22 20:35:41,414:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-22 20:35:41,418:  INFO: common: created directory at : artifacts]
+[2023-11-22 20:35:41,420:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-22 21:51:58,547:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-22 21:51:58,555:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-22 21:51:58,557:  INFO: common: created directory at : artifacts]
+[2023-11-22 21:51:58,560:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-22 21:53:25,068:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-22 21:53:25,072:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-22 21:53:25,074:  INFO: common: created directory at : artifacts]
+[2023-11-22 21:53:25,078:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-22 22:12:37,374:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-22 22:12:37,380:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-22 22:12:37,383:  INFO: common: created directory at : artifacts]
+[2023-11-22 22:12:37,386:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-23 00:48:13,920:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-23 00:48:13,927:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-23 00:48:13,930:  INFO: common: created directory at : artifacts]
+[2023-11-23 00:48:13,932:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-23 01:01:54,666:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-23 01:01:54,671:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-23 01:01:54,674:  INFO: common: created directory at : artifacts]
+[2023-11-23 01:01:54,676:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-23 01:04:03,196:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-23 01:04:03,204:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-23 01:04:03,207:  INFO: common: created directory at : artifacts]
+[2023-11-23 01:04:03,210:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-23 01:12:42,954:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-23 01:12:42,960:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-23 01:12:42,963:  INFO: common: created directory at : artifacts]
+[2023-11-23 01:12:42,965:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-23 02:22:04,123:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-23 02:22:04,131:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-23 02:22:04,133:  INFO: common: created directory at : artifacts]
+[2023-11-23 02:22:04,135:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-23 02:27:41,519:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-23 02:27:41,525:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-23 02:27:41,530:  INFO: common: created directory at : artifacts]
+[2023-11-23 02:27:41,535:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-23 02:39:40,086:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-23 02:39:40,093:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-23 02:39:40,095:  INFO: common: created directory at : artifacts]
+[2023-11-23 02:39:40,098:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-23 02:41:54,709:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-23 02:41:54,715:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-23 02:41:54,718:  INFO: common: created directory at : artifacts]
+[2023-11-23 02:41:54,771:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-23 02:42:57,129:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-23 02:42:57,134:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-23 02:42:57,138:  INFO: common: created directory at : artifacts]
+[2023-11-23 02:42:57,140:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-23 02:53:19,174:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-23 02:53:19,180:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-23 02:53:19,183:  INFO: common: created directory at : artifacts]
+[2023-11-23 02:53:19,188:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-23 03:09:15,832:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-23 03:09:15,840:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-23 03:09:15,842:  INFO: common: created directory at : artifacts]
+[2023-11-23 03:09:15,845:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-23 03:14:59,597:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-23 03:14:59,607:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-23 03:14:59,609:  INFO: common: created directory at : artifacts]
+[2023-11-23 03:14:59,611:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-23 12:57:08,074:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-23 12:57:08,094:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-23 12:57:08,101:  INFO: common: created directory at : artifacts]
+[2023-11-23 12:57:08,108:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-23 13:08:35,020:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-23 13:08:35,027:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-23 13:08:35,029:  INFO: common: created directory at : artifacts]
+[2023-11-23 13:08:35,031:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-23 21:13:34,710:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-23 21:13:34,776:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-23 21:13:34,788:  INFO: common: created directory at : artifacts]
+[2023-11-23 21:13:34,807:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-23 21:49:38,750:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-23 21:49:38,761:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-23 21:49:38,765:  INFO: common: created directory at : artifacts]
+[2023-11-23 21:49:38,768:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-23 22:21:28,917:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-23 22:21:28,922:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-23 22:21:28,925:  INFO: common: created directory at : artifacts]
+[2023-11-23 22:21:28,932:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-25 22:06:06,423:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-25 22:06:06,437:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-25 22:06:06,443:  INFO: common: created directory at : artifacts]
+[2023-11-25 22:06:06,448:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-25 22:13:53,128:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-25 22:13:53,139:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-25 22:13:53,143:  INFO: common: created directory at : artifacts]
+[2023-11-25 22:13:53,146:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-25 22:14:20,141:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-25 22:14:20,149:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-25 22:14:20,153:  INFO: common: created directory at : artifacts]
+[2023-11-25 22:14:20,157:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-25 22:14:45,562:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-25 22:14:45,571:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-25 22:14:45,573:  INFO: common: created directory at : artifacts]
+[2023-11-25 22:14:45,576:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-25 22:15:19,063:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-25 22:15:19,069:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-25 22:15:19,074:  INFO: common: created directory at : artifacts]
+[2023-11-25 22:15:19,077:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-25 22:15:36,547:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-25 22:15:36,554:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-25 22:15:36,557:  INFO: common: created directory at : artifacts]
+[2023-11-25 22:15:36,559:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-25 22:16:39,375:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-25 22:16:39,380:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-25 22:16:39,383:  INFO: common: created directory at : artifacts]
+[2023-11-25 22:16:39,387:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-26 00:15:38,473:  INFO: server: Started server process [17868]]
+[2023-11-26 00:15:38,474:  INFO: on: Waiting for application startup.]
+[2023-11-26 00:15:38,475:  INFO: on: Application startup complete.]
+[2023-11-26 00:15:38,476:  INFO: server: Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)]
+[2023-11-26 15:20:12,266:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-26 15:20:12,276:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-26 15:20:12,277:  INFO: common: created directory at : artifacts]
+[2023-11-26 15:20:12,278:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-26 15:22:19,962:  INFO: common: yaml file:config\config.yaml loaded successfully]
+[2023-11-26 15:22:19,965:  INFO: common: yaml file:params.yaml loaded successfully]
+[2023-11-26 15:22:19,966:  INFO: common: created directory at : artifacts]
+[2023-11-26 15:22:19,966:  INFO: common: created directory at : artifacts/model_evaluation]
+[2023-11-26 15:35:35,561:  INFO: server: Shutting down]
+[2023-11-26 15:35:35,671:  INFO: on: Waiting for application shutdown.]
+[2023-11-26 15:35:35,969:  INFO: on: Application shutdown complete.]
+[2023-11-26 15:35:35,970:  INFO: server: Finished server process [17868]]
